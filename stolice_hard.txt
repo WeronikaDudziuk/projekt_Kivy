@@ -1,0 +1,251 @@
+Algieria,Algier
+Angola,Luanda
+Benin,Porto-Novo
+Botswana,Gaborone
+Burkina Faso,Wagadugu
+Burundi,Gitega
+Czad,Ndżamena
+Demokratyczna Republika Konga,Kinszasa
+Dżibuti,Dżibuti
+Egipt,Kair
+Erytrea,Asmara
+Etiopia,Addis Abeba
+Gabon,Libreville
+Gambia,Bandżul
+Ghana,Akra
+Gwinea,Konakry
+Gwinea Bissau,Bissau
+Gwinea Równikowa,Malabo
+Kamerun,Jaunde
+Kenia,Nairobi
+Komory,Moroni
+Kongo,Brazzaville
+Lesotho,Maseru
+Liberia,Monrovia
+Libia,Trypolis
+Madagaskar,Antananarywa
+Malawi,Lilongwe
+Mali,Bamako
+Maroko,Rabat
+Mauretania,Nawakszut
+Mauritius,Port Louis
+Mozambik,Maputo
+Namibia,Windhuk
+Niger,Niamey
+Nigeria,Abudża
+Południowa Afryka,Pretoria
+Republika Środkowoafrykańska,Bangi
+Republika Zielonego Przylądka,Praia
+Rwanda,Kigali
+Senegal,Dakar
+Seszele,Victoria
+Sierra Leone,Freetown
+Somalia,Mogadiszu
+Eswatini,Mbabane
+Sudan,Chartum
+Sudan Południowy,Dżuba
+Tanzania,Dodoma
+Togo,Lomé
+Tunezja,Tunis
+Uganda,Kampala
+Wybrzeże Kości Słoniowej,Jamusukro
+Wyspy Świętego Tomasza i Książęca,São Tomé
+Zambia,Lusaka
+Zimbabwe,Harare
+Majotta,Mamoudzou
+Reunion,Saint-Denis
+Sahara Zachodnia,Al-Ujun
+Somaliland,Hargejsa
+Wyspa Świętej Heleny/Wyspa Wniebowstąpienia i Tristan da Cunha,Jamestown
+Argentyna,Buenos Aires
+Boliwia,Sucre
+Brazylia,Brasília
+Chile,Santiago
+Ekwador,Quito
+Gujana,Georgetown
+Kolumbia,Bogota
+Paragwaj,Asunción
+Peru,Lima
+Surinam,Paramaribo
+Urugwaj,Montevideo
+Wenezuela,Caracas
+Falklandy,Stanley
+Georgia Południowa i Sandwich Południowy,King Edward Point
+Gujana Francuska,Kajenna
+Antigua i Barbuda,Saint John’s
+Bahamy,Nassau
+Barbados,Bridgetown
+Belize,Belmopan
+Dominika,Roseau
+Dominikana,Santo Domingo
+Grenada,Saint George’s
+Gwatemala,Gwatemala
+Haiti,Port-au-Prince
+Honduras,Tegucigalpa
+Jamajka,Kingston
+Kanada,Ottawa
+Kostaryka,San José
+Kuba,Hawana
+Meksyk,Meksyk
+Nikaragua,Managua
+Panama,Panama
+Saint Kitts i Nevis,Basseterre
+Saint Lucia,Castries
+Saint Vincent i Grenadyny,Kingstown
+Salwador,San Salvador
+Stany Zjednoczone,Waszyngton
+Trynidad i Tobago,Port-of-Spain
+Anguilla,The Valley
+Aruba,Oranjestad
+Bermudy,Hamilton
+Bonaire Bonaire,Kralendijk
+Brytyjskie Wyspy Dziewicze,Road Town
+Curaçao Curaçao,Willemstad
+Grenlandia,Nuuk
+Gwadelupa,Basse-Terre
+Kajmany,George Town
+Martynika,Fort-de-France
+Montserrat,Plymouth, Brades
+Portoryko,San Juan
+Saby Saba,The Bottom
+Saint-Barthélemy,Gustavia
+Saint-Martin,Marigot
+Saint-Pierre i Miquelon,Saint-Pierre
+Sint Eustatius Sint Eustatius,Oranjestad
+Sint Maarten Sint Maarten,Philipsburg
+Turks i Caicos,Cockburn Town
+Wyspy Dziewicze Stanów Zjednoczonych,Charlotte Amalie
+Afganistan,Kabul
+Arabia Saudyjska,Rijad
+Armenia,Erywań
+Azerbejdżan,Baku
+Bahrajn,Manama
+Bangladesz,Dhaka
+Bhutan,Thimphu
+Brunei,Bandar Seri Begawan
+Chińska Republika Ludowa Chiny,Pekin
+Cypr,Nikozja
+Filipiny,Manila
+Gruzja,Tbilisi
+Indie,Nowe Delhi
+Indonezja,Dżakarta
+Irak,Bagdad
+Iran,Teheran
+Izrael,Tel Awiw-Jafa
+Japonia,Tokio
+Jemen,Sana
+Jordania,Amman
+Kambodża,Phnom Penh
+Katar,Doha
+Kazachstan,Nur-Sułtan
+Kirgistan,Biszkek
+Korea Południowa,Seul
+Korea Północna,Pjongjang
+Kuwejt,Kuwejt
+Laos,Wientian
+Liban,Bejrut
+Malediwy,Male
+Malezja,Kuala Lumpur
+Mjanma,Naypyidaw
+Mongolia,Ułan Bator
+Nepal,Katmandu
+Oman,Maskat
+Pakistan,Islamabad
+Rosja,Moskwa
+Singapur,Singapur
+Sri Lanka,Sri Dźajawardanapura Kotte
+Syria,Damaszek
+Tadżykistan,Duszanbe
+Tajlandia Tajlandia,Bangkok
+Timor Wschodni Timor Wschodni,Dili
+Turcja,Ankara
+Turkmenistan,Aszchabad
+Uzbekistan,Taszkent
+Wietnam Wietnam,Hanoi
+Zjednoczone Emiraty Arabskie,Abu Zabi
+Abchazja,Suchumi
+Cypr Północny,Nikozja
+Górski Karabach,Stepanakert
+Osetia Południowa,Cchinwali
+Palestyna,Jerozolima/Ramallah
+Tajwan,Tajpej
+Australia,Canberra
+Fidżi,Suva
+Kiribati,Bairiki
+Nauru,Yaren 
+Nowa Zelandia,Wellington
+Palau,Ngerulmud
+Papua-Nowa Gwinea,Port Moresby
+Samoa,Apia
+Mikronezja,Palikir
+Tonga,Nukuʻalofa
+Tuvalu,Vaiaku
+Vanuatu,Port Vila
+Wyspy Marshalla,Majuro
+Wyspy Salomona,Honiara
+Guam,Hagåtña
+Mariany Północne,Chalan Kanoa
+Niue,Alofi
+Norfolk,Kingston
+Nowa Kaledonia,Numea
+Pitcairn,Adamstown
+Polinezja Francuska,Papeete
+Samoa Amerykańskie,Fagatogo
+Tokelau,brak
+Wallis i Futuna,Mata-Utu
+Wyspa Bożego Narodzenia,Flying Fish Cove
+Wyspy Cooka,Avarua
+Wyspy Kokosowe,West Island
+Albania,Tirana
+Andora,Andora
+Austria,Wiedeń
+Belgia,Bruksela
+Białoruś,Mińsk
+Bośnia i Hercegowina,Sarajewo
+Bułgaria,Sofia
+Chorwacja,Zagrzeb
+Czarnogóra,Podgorica
+Czechy,Praga
+Dania,Kopenhaga
+Estonia,Tallinn
+Finlandia,Helsinki
+Francja,Paryż
+Grecja,Ateny
+Hiszpania,Madryt
+Holandia,Amsterdam
+Irlandia,Dublin
+Islandia,Reykjavík
+Liechtenstein,Vaduz
+Litwa,Wilno
+Luksemburg,Luksemburg
+Łotwa,Ryga
+Macedonia Północna,Skopje
+Malta,Valletta
+Mołdawia,Kiszyniów
+Monako,Monako
+Niemcy,Berlin
+Norwegia,Oslo
+Polska,Warszawa
+Portugalia,Lizbona
+Rosja,Moskwa
+Rumunia,Bukareszt
+San Marino,San Marino
+Serbia,Belgrad
+Słowacja,Bratysława
+Słowenia,Lublana
+Szwajcaria,Berno
+Szwecja,Sztokholm
+Ukraina,Kijów
+Watykan,Watykan
+Węgry,Budapeszt
+Wielka Brytania,Londyn
+Włochy,Rzym
+Gagauzja Gagauzja,Komrat
+Gibraltar,Gibraltar
+Guernsey,Saint Peter Port
+Jersey,Saint Helier
+Kosowo,Prisztina
+Naddniestrze,Tyraspol
+Svalbard,Longyearbyen
+Wyspa Man,Douglas
+Wyspy Owcze,Thorshavn
